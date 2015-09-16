@@ -1,0 +1,7 @@
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-28 23:44:02.701151
+#+TITLE: 修真十書悟真篇
+#+PROPERTY: DZID  DZ0263e
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，4—711 五卷 洞真部方法類
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS HFL
